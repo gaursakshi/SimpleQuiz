@@ -4,7 +4,7 @@ This is a multiple choice quiz using JavaScript, in this quiz, the user will hav
 # ScreenShot of the Quiz
 ![Capture1](/images/Capture3.PNG)
 ![Capture2](/images/Capture.PNG)
-![Capture3](/images/Capture1.PNG)
+![Capture3](/images/Capture4.PNG)
 
 
 
